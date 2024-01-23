@@ -1,0 +1,9 @@
+.modal-div{
+background-color: rgb(56, 55, 55);
+border-color: rgb(119, 10, 220);
+box-shadow:   0 0 10px rgb(227, 198, 255);
+border-radius: 5px;
+width: 200px;
+height: 200px;
+padding: 30px;
+}
